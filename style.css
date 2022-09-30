@@ -1,8 +1,13 @@
 body{
     text-align: center;
+    background-color: #DEDC51;
+    color: black;
 }
 label{
     display: block;
-    padding-bottom:1rem;
-
+    padding-bottom:4rem;
+}
+input{
+   width: 29%;
+   
 }
